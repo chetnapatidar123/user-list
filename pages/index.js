@@ -4,7 +4,7 @@ import React from 'react'
 const index = () => {
   return (
     <Layout>
-      <h1>Mini Project-1</h1>
+    <Link href="/users"><h1>Mini Project-1</h1></Link>
     </Layout>
   )
 }
